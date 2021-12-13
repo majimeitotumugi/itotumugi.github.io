@@ -89,7 +89,7 @@ footer {
 -----------------------------*/
 /* ====== TOP IMAGE ====== */
 header .jumbotron-fluid {
-	background-image: url("C:\Users\kyito\OneDrive - 株式会社　ジョイカルジャパン　\デスクトップ\html_lesson\採用ページ作成\img/bg-toptop.jpg");
+	background-image: url("https://github.com/majimeitotumugi/itotumugi.github.io/blob/main/bg-toptop.jpg");
 	background-size: cover;
 	min-height: 100%;
 }
