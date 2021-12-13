@@ -89,7 +89,7 @@ footer {
 -----------------------------*/
 /* ====== TOP IMAGE ====== */
 header .jumbotron-fluid {
-	background-image: url("https://github.com/majimeitotumugi/itotumugi.github.io/blob/main/bg-toptop.jpg");
+	background-image: url("https://github.com/majimeitotumugi/itotumugi.github.io/blob/main/bg-toptop.jpg?raw=true");
 	background-size: cover;
 	min-height: 100%;
 }
